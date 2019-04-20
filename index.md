@@ -1,5 +1,13 @@
-<h2 style="font-family:標楷體;">基本資訊</h2>
+<style>
+body{
+margin:0px;
+padding:0px;
+background:#fff url("//i.imgur.com/0bsM7o3.jpg") center center fixed no-repeat;　//設定背景圖片的呈現方式
+background-size: cover;　//設定背景圖片的填滿方式
+}        
+</style>
 
+<h2 style="font-family:標楷體;">基本資訊</h2>
 
 玉山山塊因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，南北長而東西
 短，十字之交點即為玉山主峰，而玉山國家公園以山為名，因山勢峻秀，位居臺
