@@ -47,18 +47,17 @@
 <h1 style="font-family:標楷體;">國家公園標示意涵</h1>
 
 <pre class="highlight"><code>
-<img style="width: 100px; height: 100px;" src="//i.imgur.com/1f6mKyq.png" align="left">
+<p><img style="width: 100px; height: 100px;" src="//i.imgur.com/1f6mKyq.png" align="left">
  玉山國家公園管理處處徽呈現玉山國家公園範圍所轄，有右邊的漢文化(圖騰)與左邊的原住
  民文化(圖騰)和諧共融，同時有靠人類的雙手及智慧共同維護這片好山好水下的動物植物等
- 生物資源，讓大地生生不息。
+ 生物資源，讓大地生生不息。</p>
 </code></pre>
 
 <h1 style="font-family=標楷體;">公園特色介紹</h1>
 <pre class="highlight"><code>
 <p>玉山國家公園內全區共有一百九十一種鳥類、五十八種哺乳類、十八種爬蟲類、十三種兩棲類、八百二十六
-種昆蟲、十二種淡水魚類、二十九種貝殼類。以下列舉玉山較有名的動物</p>
-
-
+種昆蟲、十二種淡水魚類、二十九種貝殼類。</p>
+<p>比較有名的動物有<a href="https://www.ysnp.gov.tw/funcation/animallist_messagesr.aspx?path=464&id=14">台灣黑熊</a>，<a href="https://www.ysnp.gov.tw/funcation/animallist_messagesr.aspx?path=464&id=3">台灣獼猴</a>，<a href="https://www.ysnp.gov.tw/funcation/animallist_messagesr.aspx?path=464&id=6">山羌</a>等等。</p>
 
 </code></pre>
 
