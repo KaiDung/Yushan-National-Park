@@ -49,9 +49,8 @@
 <pre class="highlight"><code>
 
 <img id="comp-ja6kq5fb1imgimage" style="width: 280px; height: 280px;" src="//i.imgur.com/1f6mKyq.png">
-
-</code></pre>
-```markdown
 玉山國家公園管理處處徽呈現玉山國家公園範圍所轄，有右邊的漢文化(圖騰)與左邊的原住民文化(圖騰)和
 諧共融，同時有靠人類的雙手及智慧共同維護這片好山好水下的動物植物等生物資源，讓大地生生不息。
-```
+
+</code></pre>
+
