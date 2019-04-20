@@ -48,7 +48,7 @@
 
 <pre class="highlight"><code>
 
-<img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="//i.imgur.com/1f6mKyq.png">
+<img id="comp-ja6kq5fb1imgimage" style="width: 280px; height: 280px;" src="//i.imgur.com/1f6mKyq.png">
 
 </code></pre>
 ```markdown
