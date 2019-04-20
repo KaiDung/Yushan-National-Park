@@ -39,8 +39,8 @@
 塊最美好的淨土與樂園。
 ```
 <h2>國家公園標示意涵</h2><br>
-<img height="200px" width="200px" src="//i.imgur.com/oyMJVLk.png?1">
 ```markdown
+<img height="200px" width="200px" src="//i.imgur.com/oyMJVLk.png?1">
 玉山國家公園管理處處徽呈現玉山國家公園範圍所轄，有右邊的漢文化(圖騰)與
 左邊的原住民文化(圖騰)和諧共融，同時有靠人類的雙手及智慧共同維護這片好
 山好水下的動物植物等生物資源，讓大地生生不息。
