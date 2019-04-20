@@ -4,7 +4,7 @@
   }
 
   body {
-    background-image: url("//i.imgur.com/7ljaxgC.png");
+    background-image: url("//i.imgur.com/DpG4BZn.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
