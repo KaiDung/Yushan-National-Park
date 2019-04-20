@@ -1,10 +1,15 @@
 <style>
-body{
-margin:0px;
-padding:0px;
-background:#fff url("//i.imgur.com/0bsM7o3.jpg") center center fixed no-repeat;　//設定背景圖片的呈現方式
-background-size: cover;　//設定背景圖片的填滿方式
-}        
+  html {
+    height: 100%;
+  }
+
+  body {
+    background-image: url("//i.imgur.com/7ljaxgC.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
 </style>
 
 <h2 style="font-family:標楷體;">基本資訊</h2>
