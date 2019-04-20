@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
 
-基本資訊
+
+<h1>基本資訊</h1>
+<p>
+
 ```markdown
   玉山山塊因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，南北長而東西短，十字之交點即為玉山主峰，而玉山國家公園以山為名，因山勢峻秀，位居臺灣中央地帶，行政區域跨花蓮、高雄、南投、嘉義等四個縣市，地形可概分為東埔山塊、玉山山塊及中央山塊三大區，亦為濁水溪、高屏溪及秀姑巒溪等溪流上游之重要集水區。園區面積103,121.4公頃，屬一典型亞熱帶高山型國家公園，地理位置獨特，山峰遍布，岩塊天成，有者奇峰兀立，雄偉壯麗，氣勢磅礡；為臺灣高山少數仍保存原始風貌的地區，其間包括名聞遐邇的東北亞第一高峰，海拔3,952公尺的玉山主峰，植被隨海拔之變化而異，由亞熱帶、溫帶以至寒帶，林相次第變化，野生動物孳生，園區面積約為臺灣面積的百分之三，卻有1923種被子植物(426種單子葉植物、1497種雙子葉植物)、28種裸子植物、441種蕨類植物，177種苔蘚類植物，147種菌類；含括了臺灣半數以上的原生種植物。
 
@@ -10,34 +12,6 @@
 
  玉山國家公園的人文及自然資源十分豐富，加上四季更迭的景緻，極具觀光遊憩、學術研究，與環境教育等多元的價值與功能。近年來，政府積極的推動生態旅遊及山野教育，玉山國家公園不僅可作為國人生態旅遊的場地，更是戶外教學的重要場所。尤其在公路四通八達的今天，民眾能夠更便捷的抵達過往人煙罕至的山區，體驗與感受園區四季不同的風情。這些珍貴的大自然當屬於全民共享的寶貴資產，不僅是現今國人親近自然，心靈休憩的地方，更是我們留給後世子孫一塊最美好的淨土與樂園。
 ```
-### Markdown
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KaiDung/Yushan-National-Park/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
