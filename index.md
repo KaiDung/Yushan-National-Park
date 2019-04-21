@@ -29,11 +29,9 @@
 
 <h1 style="font-family:標楷體;">國家公園標示意涵</h1>
 
-<pre class="highlight"><code>
-<img style="width: 100px; height: 100px;" src="//i.imgur.com/1f6mKyq.png" align="left"><center>玉山國家公園管理處處徽呈現玉山國家公園範轄，有右邊的漢文化(圖騰)與左邊的原住民
-文化(圖騰)和諧共融，同時有靠人類的雙手及智慧共同維護這片好山好水下的動物植物等
-生物資源，讓大地生生不息。</center>
-</code></pre>
+<div style="background-color:#FFCCCC;border:2px black solid;padding:10px;">
+<img style="width: 100px; height: 100px;" src="//i.imgur.com/1f6mKyq.png" align="left"><center>玉山國家公園管理處處徽呈現玉山國家公園範轄，有右邊的漢文化(圖騰)與左邊的原住民文化(圖騰)和諧共融，同時有靠人類的雙手及智慧共同維護這片好山好水下的動物植物等生物資源，讓大地生生不息。</center>
+</div>
 
 <h1 style="font-family=標楷體;">公園特色介紹</h1>
 
