@@ -12,7 +12,7 @@
   }
   
   img{
-    border:2px;
+    border:2px black solid;
   }
   
   p {
