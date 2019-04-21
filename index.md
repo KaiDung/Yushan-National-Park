@@ -107,7 +107,7 @@
 </p>
 </div>
 
-<h1 style="font-family=標楷體;">周圍美食或是住宿資訊</h1>
+<h1 style="font-family=標楷體;">周圍住宿資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   <p style="color:#FF8800;">塔塔加地區
   </p>
@@ -147,6 +147,11 @@
   <br>東埔溫泉景祥飯店：（049）2702100
   <br>櫻之泉溫泉會館：（049）2701188
   </p>
+</div>
+
+<h1 style="font-family=標楷體;">周圍美食資訊</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+  
 </div>
 
 <h1 style="font-family=標楷體;">資料來源</h1>
