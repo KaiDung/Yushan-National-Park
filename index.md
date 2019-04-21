@@ -11,6 +11,10 @@
     background-color: #CCFF99
   }
   
+  img{
+    border:2px;
+  }
+  
   p {
     font-size: 18px;
     font-family: 標楷體;
