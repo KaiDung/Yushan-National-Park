@@ -32,7 +32,7 @@
 
 <h1 style="font-family=標楷體;">公園特色介紹</h1>
 
-<h2 style="font-family:標楷體;">玉山主峰標高3,952傲領群山</h2>
+<h2 style="font-family:標楷體;">一、玉山主峰標高3,952傲領群山</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山國家公園以玉山為名，此山系因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，十字交點即為標
@@ -41,7 +41,7 @@
 ，將玉山圍繞襯托，也呈現山岳型國家公園的氣勢。</p>
 </div>
 
-<h2 style="font-family:標楷體;">氣候垂直變化 園內育3大河</h2>
+<h2 style="font-family:標楷體;">二、氣候垂直變化 園內育3大河</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 玉山國家公園居臺灣中央地帶，海拔由拉庫拉庫溪谷之300公尺至玉山之3,952公尺主峰，差距高達3,600
@@ -52,7 +52,7 @@
 層，即集匯成高山湖泊，如中央山脈的大水窟、嘉明湖，南橫的天池等都屬如此。
 </div>
 
-<h2 style="font-family:標楷體;">熱溫寒三帶植物分區生長</h2>
+<h2 style="font-family:標楷體;">三、熱溫寒三帶植物分區生長</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 玉山園內山脈起伏劇烈，高聳入雲的山頭，被四周低地有效的孤立，代表著程度不一的隔離作用，因此物
@@ -62,7 +62,7 @@
 ，不容小覷。
 </div>
 
-<h2 style="font-family:標楷體;">冰河時期山椒魚珍貴棲息</h2>
+<h2 style="font-family:標楷體;">四、冰河時期山椒魚珍貴棲息</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 玉山垂直分布的氣候，使得林相豐富，不同植群帶內的植物長期競爭、消長、演替，提供了各種動物相異
@@ -74,7 +74,7 @@
 冰河時期的活證據。
 </div>
 
-<h2 style="font-family:標楷體;">八通關古道是重要人文史蹟</h2>
+<h2 style="font-family:標楷體;">五、八通關古道是重要人文史蹟</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 玉山地區由於山高地偏，但開發甚早，已在陳有蘭溪流域與拉庫拉庫溪流域瓦拉米、黃麻附近發現石器與
