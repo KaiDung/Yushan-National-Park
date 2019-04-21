@@ -4,14 +4,14 @@
   }
 
   body {
-    background-image: url("//i.imgur.com/DpG4BZn.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    background-color: #77FF00
   }
 </style>
-
+background-image: url("//i.imgur.com/DpG4BZn.png");
 <h1 style="font-family:標楷體;">基本資訊</h1>
 <pre class="highlight"><code>
 <p>玉山山塊因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，南北長而東西短，十字之交點即為玉山主
