@@ -84,7 +84,7 @@
 <h2 style="font-family:標楷體;">五、八通關古道是重要人文史蹟</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<p>玉山地區由於山高地偏，但開發甚早，已在陳有蘭溪流域與拉庫拉庫溪流域瓦拉米、黃麻附近發現石器與
+<img style="width:220px;height:146px;" class="blackborder" src="http://www.ysnp.gov.tw/resource/html/resource.ashx?path=images%252fsummary_pic.jpg" align="left"><p>玉山地區由於山高地偏，但開發甚早，已在陳有蘭溪流域與拉庫拉庫溪流域瓦拉米、黃麻附近發現石器與
 陶器等史前遺址，證明本區至少在1000年前已有人類活動。近代定居族群幾乎都是布農族人，而人數不多的
 鄒族則世居在玉山西南側。秀姑巒山和玉山是臺灣的核心地區，歷史演進的軌跡，也在此發生流傳。1875年
 ，清政府為屯墾及邊防需要，開闢一條穿越中央山脈的「中路」，這條約152公里的官道，就是目前國定一級
