@@ -71,7 +71,7 @@
 
 <h2 style="font-family:標楷體;">四、冰河時期山椒魚珍貴棲息</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<img style="width:220px;height:146px;" class="blackborder" style="../upload/images/20110815_095026.36308.JPG" align="left"><p>玉山垂直分布的氣候，使得林相豐富，不同植群帶內的植物長期競爭、消長、演替，提供了各種動物相異
+<img style="width:220px;height:146px;" class="blackborder" src="https://www.ysnp.gov.tw/upload/images/20110815_095026.36308.JPG" align="left"><p>玉山垂直分布的氣候，使得林相豐富，不同植群帶內的植物長期競爭、消長、演替，提供了各種動物相異
 的棲息空間和食物資源，使得本區生物有著不凡的多樣性。本區共約有50種哺乳動物，其中臺灣黑熊、長鬃
 山羊、水鹿、山羌等是珍貴大型動物；鳥類約有151種，幾乎包括全臺灣森林中的留鳥，包括帝雉、藍腹鷴等
 臺灣特有種。<br>
