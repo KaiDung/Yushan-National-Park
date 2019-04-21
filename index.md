@@ -37,37 +37,37 @@
 
 <h2 style="font-family:標楷體;">玉山主峰標高3,952傲領群山</h2>
 
-<pre class="highlight"><code>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山國家公園以玉山為名，此山系因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，十字交點即為標
 高3,952公尺的主峰；園內超過3,000公尺且名列「臺灣百岳」的高山有30座，其中玉山東峰為陡立險峻的十
 峻之首、秀姑巒山是中央山脈第一高峰、關山是南臺首嶽、新康山為東臺一霸，這一座座高山就像眾星拱月般
 ，將玉山圍繞襯托，也呈現山岳型國家公園的氣勢。</p>
-</code></pre>
+</div>
 
 <h2 style="font-family:標楷體;">氣候垂直變化 園內育3大河</h2>
 
-<pre class="highlight"><code>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山國家公園居臺灣中央地帶，海拔由拉庫拉庫溪谷之300公尺至玉山之3,952公尺主峰，差距高達3,600
 公尺，因此垂直變化出亞熱帶到亞寒帶，截然不同的氣候特性。海拔3,500公尺以上地區，年均溫為5℃，雪期
 由12月至翌年4月，而海拔2,500公尺以上地區，年均溫約10℃。</p>
 <p>水文方面，玉山國家公園是一個良好而廣大的集水區，是臺灣中、南、東部大河濁水溪、高屏溪、秀姑巒
 溪之發源地。而園內登山者的良泉高山湖泊，則成因豐沛的雨水滲匯於凹地，若凹地下方為頁岩層等不透水岩
 層，即集匯成高山湖泊，如中央山脈的大水窟、嘉明湖，南橫的天池等都屬如此。</p>
-</code></pre>
+</div>
 
 <h2 style="font-family:標楷體;">熱溫寒三帶植物分區生長</h2>
 
-<pre class="highlight"><code>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山園內山脈起伏劇烈，高聳入雲的山頭，被四周低地有效的孤立，代表著程度不一的隔離作用，因此物
 種多樣性低及特有種比例高，是高山生態的一大特色。再加上園區垂直落差達3,600公尺，各種亞熱帶到亞寒
 帶的典型林相交錯鑲嵌，可說是臺灣森林生態的縮影。植群帶涵蓋熱帶雨林、暖溫帶雨林、暖溫帶山地針葉林
 、冷溫帶山地針葉林、亞高山針葉林及高山寒原等，此區面積雖僅為臺灣的3%，但卻包含半數以上原生植物
 ，不容小覷。</p>
-</code></pre>
+</div>
 
 <h2 style="font-family:標楷體;">冰河時期山椒魚珍貴棲息</h2>
 
-<pre class="highlight"><code>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山垂直分布的氣候，使得林相豐富，不同植群帶內的植物長期競爭、消長、演替，提供了各種動物相異
 的棲息空間和食物資源，使得本區生物有著不凡的多樣性。本區共約有50種哺乳動物，其中臺灣黑熊、長鬃
 山羊、水鹿、山羌等是珍貴大型動物；鳥類約有151種，幾乎包括全臺灣森林中的留鳥，包括帝雉、藍腹鷴等
@@ -75,25 +75,27 @@
 <p>而居於森林最底層的爬蟲類則有18種、兩生類13種，頭號珍貴的就屬曾是魚但卻長腳的山椒魚，別看牠其
 貌不揚，這類動物和中國的娃娃魚是親戚，在145萬年前的侏羅紀地質年代時期即出現在地球上，是臺灣歷經
 冰河時期的活證據。</p>
-</code></pre>
+</div>
 
 <h2 style="font-family:標楷體;">八通關古道是重要人文史蹟</h2>
 
-<pre class="highlight"><code>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山地區由於山高地偏，但開發甚早，已在陳有蘭溪流域與拉庫拉庫溪流域瓦拉米、黃麻附近發現石器與
 陶器等史前遺址，證明本區至少在1000年前已有人類活動。近代定居族群幾乎都是布農族人，而人數不多的
 鄒族則世居在玉山西南側。秀姑巒山和玉山是臺灣的核心地區，歷史演進的軌跡，也在此發生流傳。1875年
 ，清政府為屯墾及邊防需要，開闢一條穿越中央山脈的「中路」，這條約152公里的官道，就是目前國定一級
 古蹟「八通關古道」。而日治時期為鎮壓布農族人，另闢「八通關越橫斷道路」、「關山越警備道」，現今沿
 途「理蕃」的警備建設雖所存無幾，但已為殖民掠奪與原住民反抗下了一段歷史註腳。</p>
-</code></pre>
+</div>
 
 <h1 style="font-family=標楷體;">交通資訊</h1>
-<pre class="highlight"><code>
-</code></pre>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+</div>
 
 <h1 style="font-family=標楷體;">周圍美食或是住宿資訊</h1>
-<pre class="highlight"><code>
-</code></pre>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+</div>
 
 <h1 style="font-family=標楷體;">資料來源</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+</div>
