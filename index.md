@@ -11,11 +11,9 @@
     background-color: #CCFF99
   }
   
-  p{
+  p {
     font-size: 1.2em;
     font-family: 標楷體;
-  }
-    
   }
   
 </style>
