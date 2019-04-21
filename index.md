@@ -11,7 +11,7 @@
     background-color: #CCFF99
   }
   
-  img{
+  .blackborder{
     border:2px black solid;
   }
   
@@ -40,7 +40,7 @@
 
 <h2 style="font-family:標楷體;">一、玉山主峰標高3,952傲領群山</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<img src="http://www.ysnp.gov.tw/resource/html/resource.ashx?path=images%252fsummary_pic_2.jpg" align="left"><p>玉山國家公園以玉山為名，此山系因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，十字交點即為標
+<img class="blackborder" src="http://www.ysnp.gov.tw/resource/html/resource.ashx?path=images%252fsummary_pic_2.jpg" align="left"><p>玉山國家公園以玉山為名，此山系因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，十字交點即為標
 高3,952公尺的主峰；園內超過3,000公尺且名列「臺灣百岳」的高山有30座，其中玉山東峰為陡立險峻的十
 峻之首、秀姑巒山是中央山脈第一高峰、關山是南臺首嶽、新康山為東臺一霸，這一座座高山就像眾星拱月般
 ，將玉山圍繞襯托，也呈現山岳型國家公園的氣勢。
@@ -49,10 +49,10 @@
 
 <h2 style="font-family:標楷體;">二、氣候垂直變化 園內育3大河</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Zhuoshui_River%2C_Nantou_County_%28Taiwan%29.jpg/220px-Zhuoshui_River%2C_Nantou_County_%28Taiwan%29.jpg" align="right"><p>玉山國家公園居臺灣中央地帶，海拔由拉庫拉庫溪谷之300公尺至玉山之3,952公尺主峰，差距高達3,600
+<img class="blackborder" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Zhuoshui_River%2C_Nantou_County_%28Taiwan%29.jpg/220px-Zhuoshui_River%2C_Nantou_County_%28Taiwan%29.jpg" align="right"><p>玉山國家公園居臺灣中央地帶，海拔由拉庫拉庫溪谷之300公尺至玉山之3,952公尺主峰，差距高達3,600
 公尺，因此垂直變化出亞熱帶到亞寒帶，截然不同的氣候特性。海拔3,500公尺以上地區，年均溫為5℃，雪期
 由12月至翌年4月，而海拔2,500公尺以上地區，年均溫約10℃。</p>
-<img style="width:220px;height:146px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Old_Railway_Bridge_Across_Kao-Ping_River.jpg/300px-Old_Railway_Bridge_Across_Kao-Ping_River.jpg" align="left"><p>水文方面，玉山國家公園是一個良好而廣大的集水區，是臺灣中、南、東部大河濁水溪、高屏溪、秀姑巒
+<img class="blackborder" style="width:220px;height:146px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Old_Railway_Bridge_Across_Kao-Ping_River.jpg/300px-Old_Railway_Bridge_Across_Kao-Ping_River.jpg" align="left"><p>水文方面，玉山國家公園是一個良好而廣大的集水區，是臺灣中、南、東部大河濁水溪、高屏溪、秀姑巒
 溪之發源地。而園內登山者的良泉高山湖泊，則成因豐沛的雨水滲匯於凹地，若凹地下方為頁岩層等不透水岩
 層，即集匯成高山湖泊，如中央山脈的大水窟、嘉明湖，南橫的天池等都屬如此。
 </p>
