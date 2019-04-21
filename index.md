@@ -1,7 +1,4 @@
 <style>
-  html {
-    height: 100%;
-  }
   
   body {
     background-color: #CCFF99
