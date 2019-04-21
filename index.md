@@ -44,9 +44,8 @@
 </div>
 
 <h2 style="font-family:標楷體;">二、氣候垂直變化 園內育3大河</h2>
-
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<p>&emsp;玉山國家公園居臺灣中央地帶，海拔由拉庫拉庫溪谷之300公尺至玉山之3,952公尺主峰，差距高達3,600
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Zhuoshui_River%2C_Nantou_County_%28Taiwan%29.jpg/220px-Zhuoshui_River%2C_Nantou_County_%28Taiwan%29.jpg" align="left"><p>&emsp;玉山國家公園居臺灣中央地帶，海拔由拉庫拉庫溪谷之300公尺至玉山之3,952公尺主峰，差距高達3,600
 公尺，因此垂直變化出亞熱帶到亞寒帶，截然不同的氣候特性。海拔3,500公尺以上地區，年均溫為5℃，雪期
 由12月至翌年4月，而海拔2,500公尺以上地區，年均溫約10℃。<br>
 <br>&emsp;水文方面，玉山國家公園是一個良好而廣大的集水區，是臺灣中、南、東部大河濁水溪、高屏溪、秀姑巒
