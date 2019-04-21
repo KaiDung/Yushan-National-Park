@@ -12,7 +12,7 @@
   }
   
   p {
-    font-size: 22px;
+    font-size: 18px;
     font-family: 標楷體;
   }
   
