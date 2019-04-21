@@ -61,7 +61,7 @@
 <h2 style="font-family:標楷體;">三、熱溫寒三帶植物分區生長</h2>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<img class="blackborder" style="width:220px;height:146px;" src="http://www.ysnp.gov.tw/resource/html/resource.ashx?path=images%252f01_5.jpg" align="left"><p>玉山園內山脈起伏劇烈，高聳入雲的山頭，被四周低地有效的孤立，代表著程度不一的隔離作用，因此物
+<img class="blackborder" style="width:220px;height:220px;" src="http://www.ysnp.gov.tw/resource/html/resource.ashx?path=images%252f01_5.jpg" align="left"><p>玉山園內山脈起伏劇烈，高聳入雲的山頭，被四周低地有效的孤立，代表著程度不一的隔離作用，因此物
 種多樣性低及特有種比例高，是高山生態的一大特色。再加上園區垂直落差達3,600公尺，各種亞熱帶到亞寒
 帶的典型林相交錯鑲嵌，可說是臺灣森林生態的縮影。植群帶涵蓋熱帶雨林、暖溫帶雨林、暖溫帶山地針葉林
 、冷溫帶山地針葉林、亞高山針葉林及高山寒原等，此區面積雖僅為臺灣的3%，但卻包含半數以上原生植物
