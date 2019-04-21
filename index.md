@@ -17,7 +17,6 @@
   
 </style>
 <h1 style="font-family:標楷體;">基本資訊</h1>
-<pre class="highlight"><code>
 <div style="background-color:#FFCCCC;border:2px black solid;padding:10px;">
 玉山山塊因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，南北長而東西短，十字之交點即為玉山主
 峰，而玉山國家公園以山為名，因山勢峻秀，位居臺灣中央地帶，行政區域跨花蓮、高雄、南投、嘉義等四
@@ -49,7 +48,7 @@
 區，體驗與感受園區四季不同的風情。這些珍貴的大自然當屬於全民共享的寶貴資產，不僅是現今國人親近
 自然，心靈休憩的地方，更是我們留給後世子孫一塊最美好的淨土與樂園。
 </div>
-</code></pre>
+
 <h1 style="font-family:標楷體;">國家公園標示意涵</h1>
 
 <pre class="highlight"><code>
