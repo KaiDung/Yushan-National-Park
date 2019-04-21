@@ -35,9 +35,8 @@
 <h1 style="font-family:標楷體;">公園特色介紹</h1>
 
 <h2 style="font-family:標楷體;">一、玉山主峰標高3,952傲領群山</h2>
-
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<p>&emsp;玉山國家公園以玉山為名，此山系因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，十字交點即為標
+<img style="width: 90px; height: 90px;" src="http://www.ysnp.gov.tw/resource/html/resource.ashx?path=images%252fsummary_pic_2.jpg" align="left"><p>玉山國家公園以玉山為名，此山系因歐亞、菲律賓板塊相擠撞而高隆，主稜脈略呈十字形，十字交點即為標
 高3,952公尺的主峰；園內超過3,000公尺且名列「臺灣百岳」的高山有30座，其中玉山東峰為陡立險峻的十
 峻之首、秀姑巒山是中央山脈第一高峰、關山是南臺首嶽、新康山為東臺一霸，這一座座高山就像眾星拱月般
 ，將玉山圍繞襯托，也呈現山岳型國家公園的氣勢。
