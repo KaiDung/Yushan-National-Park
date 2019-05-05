@@ -119,19 +119,50 @@
 
 <h1>住宿資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-  <p><b>塔塔加地區</b></p>
-  <ul style="list-style-position:outside;">
-    <li>上東埔山莊：（049）2702213</li>
-  </ul>
   <p><b>阿里山國家風景區</b></p>
-  <ul style='list-style-position:outside;'>
-    <li>阿里山旅客服務中心：(05）2679917</li>
-    <li>阿里山賓館：(05)2679811</li>
-    <li>阿里山青年活動中心：(05)2679561</li>
-    <li>阿里山警光山莊：(05)2679975</li>
-    <li>大峰渡假山莊：(05)2679769</li>
-    <li>文山賓館：(05)2679712</li>
-  </ul>
+  <p>
+    <table border="1" cellpadding="5" cellspacing="0" width="90%">
+      <thead>
+        <tr>
+          <th width="33%">飯店名稱</th>
+          <th width="33%">飯店地址</th>
+          <th width="33%">聯絡電話</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>阿里山旅客服務中心</td>
+          <td></td>
+          <td>(05)2679917</td>
+        </tr>
+        <tr>
+          <td>阿里山賓館</td>
+          <td></td>
+          <td>(05)2679811</td>
+        </tr>
+        <tr>
+          <td>阿里山青年活動中心</td>
+          <td></td>
+          <td>(05)2679561</td>
+        </tr>
+        <tr>
+          <td>阿里山警光山莊</td>
+          <td></td>
+          <td>(05)2679975</td>
+        </tr>
+        <tr>
+          <td>大峰渡假山莊</td>
+          <td></td>
+          <td>(05)2679769</td>
+        </tr>
+        <tr>
+          <td>文山賓館</td>
+          <td></td>
+          <td>(05)2679712</td>
+        </tr>
+      <tbody>
+    </table>
+  </p>
   <p><b>東埔溫泉風景區</b></p>
   <ul style="list-style-position:outside;">
     <li>原住民族東埔活動中心：（049）2701515</li>
