@@ -38,48 +38,48 @@
   }
   #a{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:61%;
   }
   #b{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:54%;
   }
   #c{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:47%;
   }
   #d{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:40%;
   }
   #e{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:33%;
   }
   #f{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:26%;
   }
   #top{
     position:fixed;
     right:10%;
-    bottom:19%;
+    bottom:40%;
   }
   #bottom{
     position:fixed;
     right:10%;
-    bottom:12%;
+    bottom:33%;
   }
   #home{
     position:fixed;
     right:10%;
-    bottom:5%;
+    bottom:26%;
   }
   
 </style>
