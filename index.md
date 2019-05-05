@@ -86,14 +86,35 @@
 
 <h1>交通資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<ul style="list-style-position:outside;"> 
-  <li>新中橫公路：水里-玉山段（台21線</li>
-  <li>南投水里─（30K）→和社─（43K）→塔塔加遊客中心</li>
-  <li>和社-東埔線（投60）</li>
-  <li>南投水里─（30K）→和社─（8K）→東埔</li>
-  <li>新中橫公路：嘉義-玉山段（台18線）</li>
-  <li>嘉義─（75K）→阿里山─（21K）→塔塔加遊客中心</li>
-</ul>
+<p>
+  <table border="1" cellpadding="5" cellspacing="0" width="90%">
+    <thead>
+      <tr>
+        <th width="100%">路線</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>新中橫公路：水里-玉山段（台21線</td>
+      </tr>
+      <tr>
+        <td>南投水里─（30K）→和社─（43K）→塔塔加遊客中心</td>
+      </tr>
+      <tr>
+        <td>和社-東埔線（投60）</td>
+      </tr>
+      <tr>
+        <td>南投水里─（30K）→和社─（8K）→東埔</td>
+      </tr>
+      <tr>
+        <td>新中橫公路：嘉義-玉山段（台18線）</td>
+      </tr>
+      <tr>
+        <td>嘉義─（75K）→阿里山─（21K）→塔塔加遊客中心</td>
+      </tr>
+    </tbody>
+  </table>
+<p/>
 </div>
 
 <h1>住宿資訊</h1>
