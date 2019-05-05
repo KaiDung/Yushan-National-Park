@@ -117,7 +117,7 @@
 </head>
 
 <h1 style="font-size:40px;text-align:center">玉山國家公園</h1>
-<h1>基本資訊</h1>
+<h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山國家公園位居臺灣中央地帶，行政區域跨花蓮、高雄、南投、嘉義等四個縣市，地形可概分為<b>東埔山塊</b>、<b>玉山山塊</b>及<b>中央山塊</b>三大區，<b>亦為濁水溪、高屏溪及秀姑巒溪等溪流上游之重要集水區</b>。園區面積103,121.4公頃，擁有<b>東北亞第一高峰，海拔3,952公尺的玉山主峰</b>，植被隨海拔之變化而異，由亞熱帶、溫帶以至寒帶，園區面積約為臺灣面積的百分之三，卻有1923種被子植物、28種裸子植物、441種蕨類植物，177種苔蘚類植物，147種菌類；含括了臺灣半數以上的原生種植物。<br>
   
@@ -133,14 +133,14 @@
 </p>
 </div>
 
-<h1>國家公園標示意涵</h1>
+<h1 id="B">國家公園標示意涵</h1>
 
 <div style="background-color:#EEFFBB;border:2px black solid;padding:30px;">
 <img style="width: 90px; height: 90px;" src="//i.imgur.com/1f6mKyq.png" align="left"><p>玉山國家公園管理處處徽呈現玉山國家公園範轄，有右邊的漢文化(圖騰)與左邊的原住民文化(圖騰)和諧共融，同時有靠人類的雙手及智慧共同維護這片好山好水下的動物植物等生物資源，讓大地生生不息。
 </p>
 </div>
 
-<h1>公園特色介紹</h1>
+<h1 id="C">公園特色介紹</h1>
 
 <h2>一、玉山主峰標高3,952傲領群山</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -179,7 +179,7 @@
 </p>
 </div>
 
-<h1>交通資訊</h1>
+<h1 id="D">交通資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -212,7 +212,7 @@
 </p>
 </div>
 
-<h1>住宿資訊</h1>
+<h1 id="E">住宿資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   <p><b>阿里山國家風景區</b></p>
   <p>
@@ -290,7 +290,7 @@
   </p>
 </div>
 
-<h1>美食資訊</h1>
+<h1 id="F">美食資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   <p><b>下列是玉山國家公園-水里遊客中心附近的餐廳</b></p>
   <p>
@@ -344,3 +344,12 @@
   <a href="https://www.tripadvisor.com.tw/RestaurantsNear-g13806888-d510033-Yushan_National_Park-Shuili_Nantou.html">Top 10 玉山國家公園附近最佳餐廳- TripAdvisor</a>
 </div>
 </body>
+<a class="button" id="a" href="#">基本資訊</a>
+<a class="button" id="b" href="#">標示意涵</a>
+<a class="button" id="c" href="#">特色介紹</a>
+<a class="button" id="d" href="#">交通資訊</a>
+<a class="button" id="e" href="#">住宿資訊</a>
+<a class="button" id="f" href="#">美食資訊</a>
+<a class="button" id="top" href="#">網頁頂端</a>
+<a class="button" id="bottom" href="#">網頁底部</a>
+<a class="button" id="home" href="#">返回主頁</a>
