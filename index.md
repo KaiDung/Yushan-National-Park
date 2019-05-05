@@ -12,7 +12,6 @@
     font-size: 18px;
     font-family: 標楷體;
   }
-  }
   h1{
     font-family:"標楷體";
     font-weight:bold;
