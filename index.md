@@ -9,19 +9,19 @@
   }
   
   p {
-    font-family:"標楷體";
+    font-family:"微軟正黑體";
     font-size: 18px;
   }
   h1{
-    font-family:"標楷體";
+    font-family:"微軟正黑體";
     font-weight:bold;
   }
   h2{
-    font-family:"標楷體";
+    font-family:"微軟正黑體";
     font-weight:bold;
   }
   td{
-    font-family:"標楷體";
+    font-family:"微軟正黑體";
     font-size:18px;
   }
   
