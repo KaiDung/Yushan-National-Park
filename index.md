@@ -22,7 +22,7 @@
   }
   
 </style>
-<div style="text-align:centern;font-size:40px"><b>玉山國家公園</b></div>
+<div style="text-align:centern;font-size:40px;width:100%"><b>玉山國家公園</b></div>
 <h1>基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>玉山國家公園位居臺灣中央地帶，行政區域跨花蓮、高雄、南投、嘉義等四個縣市，地形可概分為<b>東埔山塊</b>、<b>玉山山塊</b>及<b>中央山塊</b>三大區，<b>亦為濁水溪、高屏溪及秀姑巒溪等溪流上游之重要集水區</b>。園區面積103,121.4公頃，擁有<b>東北亞第一高峰，海拔3,952公尺的玉山主峰</b>，植被隨海拔之變化而異，由亞熱帶、溫帶以至寒帶，園區面積約為臺灣面積的百分之三，卻有1923種被子植物、28種裸子植物、441種蕨類植物，177種苔蘚類植物，147種菌類；含括了臺灣半數以上的原生種植物。<br>
