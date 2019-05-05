@@ -24,8 +24,98 @@
     font-family:"微軟正黑體";
     font-size:18px;
   }
+  .button{
+    background-color: #4CAF50;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display:block;
+  }
+  #a{
+    position:fixed;
+    right:10%;
+    bottom:61%;
+  }
+  #b{
+    position:fixed;
+    right:10%;
+    bottom:54%;
+  }
+  #c{
+    position:fixed;
+    right:10%;
+    bottom:47%;
+  }
+  #d{
+    position:fixed;
+    right:10%;
+    bottom:40%;
+  }
+  #e{
+    position:fixed;
+    right:10%;
+    bottom:33%;
+  }
+  #f{
+    position:fixed;
+    right:10%;
+    bottom:26%;
+  }
+  #top{
+    position:fixed;
+    right:10%;
+    bottom:19%;
+  }
+  #bottom{
+    position:fixed;
+    right:10%;
+    bottom:12%;
+  }
+  #home{
+    position:fixed;
+    right:10%;
+    bottom:5%;
+  }
   
 </style>
+
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#top').click(function () {
+        $('html, body').animate({scrollTop: 0},1000);
+      });
+      $('#bottom').click(function () {
+        $('html, body').animate({scrollTop:$(document).height()-$(window).height()}, 1000);
+      });
+      $('#a').click(function () {
+        $('html, body').animate({scrollTop:$("#A").offset().top}, 1000);
+      });
+      $('#b').click(function () {
+        $('html, body').animate({scrollTop:$("#B").offset().top}, 1000);
+      });
+      $('#c').click(function () {
+        $('html, body').animate({scrollTop:$("#C").offset().top}, 1000);
+      });
+      $('#d').click(function () {
+        $('html, body').animate({scrollTop:$("#D").offset().top}, 1000);
+      });
+      $('#e').click(function () {
+        $('html, body').animate({scrollTop:$("#E").offset().top}, 1000);
+      });
+      $('#f').click(function () {
+        $('html, body').animate({scrollTop:$("#F").offset().top}, 1000);
+      });
+    });
+  </script>
+</head>
+
 <h1 style="font-size:40px;text-align:center">玉山國家公園</h1>
 <h1>基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -253,3 +343,4 @@
   <a href="http://np.cpami.gov.tw/">台灣國家公園</a>
   <a href="https://www.tripadvisor.com.tw/RestaurantsNear-g13806888-d510033-Yushan_National_Park-Shuili_Nantou.html">Top 10 玉山國家公園附近最佳餐廳- TripAdvisor</a>
 </div>
+</body>
