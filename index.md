@@ -160,9 +160,10 @@
           <td></td>
           <td>(05)2679712</td>
         </tr>
-      <tbody>
+      </tbody>
     </table>
   </p>
+  
   <p><b>東埔溫泉風景區</b></p>
   <p>
     <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -205,7 +206,7 @@
           <td>（049）2701616~8</td>
         </tr>
         </tbody>
-     <table>
+     </table>
   </p>
 </div>
 
