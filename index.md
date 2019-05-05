@@ -19,6 +19,9 @@
     font-family:"標楷體";
     font-weight:bold;
   }
+  td{
+    font-family:"標楷體"
+  }
   
 </style>
 <h1 style="font-size:40px;text-align:center">玉山國家公園</h1>
