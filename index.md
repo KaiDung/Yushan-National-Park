@@ -116,6 +116,7 @@
   </script>
 </head>
 
+<>
 <h1 style="font-size:40px;text-align:center">玉山國家公園</h1>
 <h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
