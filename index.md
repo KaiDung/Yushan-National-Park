@@ -86,7 +86,7 @@
 
 <h1>交通資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<ul style='list-style-position:outside;'> 
+<ul style="list-style-position:outside;"> 
   <li>新中橫公路：水里-玉山段（台21線
   <li>南投水里─（30K）→和社─（43K）→塔塔加遊客中心
   <li>和社-東埔線（投60）
@@ -99,11 +99,8 @@
 <h1>住宿資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   <p><b>塔塔加地區</b></p>
-  <ul style='list-style-position:outside;'>
+  <ul style="list-style-position:outside;">
     <li>上東埔山莊：（049）2702213
-    塔塔加遊客中心2F餐食部：由「雲豹休閒有限公司」承租經營，049-2702257、陳店長0980-605357
-    ※營業時間09：00~17：00
-    ※每個月第2個星期二休息（配合遊客中心休館日）。
   </ul>
   <p><b>阿里山國家風景區</b></p>
   <ul style='list-style-position:outside;'>
@@ -115,7 +112,7 @@
     <li>文山賓館：(05)2679712
   </ul>
   <p><b>東埔溫泉風景區</b></p>
-  <ul style='list-style-position:outside;'>
+  <ul style="list-style-position:outside;">
     <li>原住民族東埔活動中心：（049）2701515
     <li>和社森林教育中心：（049）2702740
     <li>東埔警光山莊：（049）2701715
@@ -128,10 +125,10 @@
 <h1>美食資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   <p><b>下列是玉山國家公園-水里遊客中心附近的餐廳</b></p>
-  <ul style='list-style-position:outside;'>
-    <li>野鴨谷餐廳  地址:水里鄉中山路一段265號 電話:(04)9277-5416</p>
-    <li>水里羊肉王山產餐廳  地址:水里鄉中山路二段65號 電話(04)9277-0618</p>
-    <li>董家肉圓  地址:水里鄉民族街205號 電話(04)9277-0355</P>
+  <ul style="list-style-position:outside;">
+    <li>野鴨谷餐廳  地址:水里鄉中山路一段265號 電話:(04)9277-5416
+    <li>水里羊肉王山產餐廳  地址:水里鄉中山路二段65號 電話(04)9277-0618
+    <li>董家肉圓  地址:水里鄉民族街205號 電話(04)9277-0355
   </ul>
 </div>
 
