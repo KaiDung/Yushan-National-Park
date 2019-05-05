@@ -164,14 +164,49 @@
     </table>
   </p>
   <p><b>東埔溫泉風景區</b></p>
-  <ul style="list-style-position:outside;">
-    <li>原住民族東埔活動中心：（049）2701515</li>
-    <li>和社森林教育中心：（049）2702740</li>
-    <li>東埔警光山莊：（049）2701715</li>
-    <li>東光大飯店：（049）2701105</li>
-    <li>沙里仙渡假飯店：（049）2702988</li>
-    <li>帝綸溫泉大飯店：（049）2701616~8</li>
-  </ul>
+  <p>
+    <table border="1" cellpadding="5" cellspacing="0" width="90%">
+      <thead>
+        <tr>
+          <th width="33%">飯店名稱</th>
+          <th width="33%">飯店地址</th>
+          <th width="33%">聯絡電話</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>原住民族東埔活動中心</td>
+          <td></td>
+          <td>（049）2701515</td>
+        </tr>
+        <tr>
+          <td>和社森林教育中心</td>
+          <td></td>
+          <td>（049）2702740</td>
+        </tr>
+        <tr>
+          <td>東埔警光山莊</td>
+          <td></td>
+          <td>（049）2701715</td>
+        </tr>
+        <tr>
+          <td>東光大飯店</td>
+          <td></td>
+          <td>（049）2701105</td>
+        </tr>
+        <tr>
+          <td>沙里仙渡假飯店</td>
+          <td></td>
+          <td>（049）2702988</td>
+        </tr>
+        <tr>
+          <td>帝綸溫泉大飯店</td>
+          <td></td>
+          <td>（049）2701616~8</td>
+        </tr>
+        </tbody>
+     <table>
+  </p>
 </div>
 
 <h1>美食資訊</h1>
