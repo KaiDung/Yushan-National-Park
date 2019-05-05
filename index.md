@@ -246,5 +246,5 @@
   <a href="https://npgis.cpami.gov.tw//public/detail/SpeciesDetail.aspx?SP_ID=M0047#">台灣國家公園生物多樣性資料庫與知識平台-台灣黑熊</a><br>
   <a href="https://npgis.cpami.gov.tw//public/detail/SpeciesDetail.aspx?SP_ID=B0152">台灣國家公園生物多樣性資料庫與知識平台-黑長尾雉</a><br>
   <a href="http://np.cpami.gov.tw/">台灣國家公園</a>
-  <a href="https://www.tripadvisor.com.tw/RestaurantsNear-g13806888-d510033-Yushan_National_Park-Shuili_Nantou.html">Top 10 玉山國家公園附近最佳餐廳- TripAdvisor</>
+  <a href="https://www.tripadvisor.com.tw/RestaurantsNear-g13806888-d510033-Yushan_National_Park-Shuili_Nantou.html">Top 10 玉山國家公園附近最佳餐廳- TripAdvisor</a>
 </div>
