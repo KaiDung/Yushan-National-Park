@@ -103,7 +103,7 @@
   </script>
 </head>
 
-
+<body>
 <h1 style="font-size:40px;text-align:center">玉山國家公園</h1>
 <h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -331,6 +331,7 @@
   <a href="http://np.cpami.gov.tw/">台灣國家公園</a>
   <a href="https://www.tripadvisor.com.tw/RestaurantsNear-g13806888-d510033-Yushan_National_Park-Shuili_Nantou.html">Top 10 玉山國家公園附近最佳餐廳- TripAdvisor</a>
 </div>
+
 </body>
 
 <div class="button-bar">
