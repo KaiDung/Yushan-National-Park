@@ -2,7 +2,7 @@
 <html>
 <style>
   
-  body {
+  body{
     background-color: #CCFF99
   }
   
@@ -14,22 +14,26 @@
     font-family:"微軟正黑體";
     font-size: 18px;
   }
+  
   h1{
     font-family:"微軟正黑體";
     font-weight:bold;
   }
+  
   h2{
     font-family:"微軟正黑體";
     font-weight:bold;
   }
+  
   td{
     font-family:"微軟正黑體";
     font-size:18px;
   }
+  
   .button{
     background-color: #a0fdff;
     border: 2px solid black;
-    color: white;
+    color: ;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -38,53 +42,28 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     display:block;
   }
-.button:hover {
-  background-color: #A1D0FF;
-}
-  #a{
-    position:fixed;
-    left:10%;
-    bottom:61%;
+  
+  .button:hover {
+    background-color: #A1D0FF;
   }
-  #b{
-    position:fixed;
-    left:10%;
-    bottom:54%;
+  
+  #flip{
+    background-color: #a0fdff;
+    border: 2px solid black;
+    color: black;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display:block;
   }
-  #c{
+  
+  .button-bar {
     position:fixed;
-    left:10%;
-    bottom:47%;
-  }
-  #d{
-    position:fixed;
-    left:10%;
-    bottom:40%;
-  }
-  #e{
-    position:fixed;
-    left:10%;
-    bottom:33%;
-  }
-  #f{
-    position:fixed;
-    left:10%;
-    bottom:26%;
-  }
-  #top{
-    position:fixed;
-    right:10%;
-    bottom:40%;
-  }
-  #bottom{
-    position:fixed;
-    right:10%;
-    bottom:33%;
-  }
-  #home{
-    position:fixed;
-    right:10%;
-    bottom:26%;
+    top: 20%;
+    right: 5%;
   }
   
 </style>
@@ -116,6 +95,9 @@
       });
       $('#f').click(function () {
         $('html, body').animate({scrollTop:$("#F").offset().top}, 1000);
+      });
+      $("#flip").click(function(){
+        $(".button").slideToggle("slow");
       });
     });
   </script>
@@ -350,6 +332,9 @@
   <a href="https://www.tripadvisor.com.tw/RestaurantsNear-g13806888-d510033-Yushan_National_Park-Shuili_Nantou.html">Top 10 玉山國家公園附近最佳餐廳- TripAdvisor</a>
 </div>
 </body>
+
+<div class="button-bar">
+<a id ="flip">選單</a>
 <a class="button" id="a" href="#">基本資訊</a>
 <a class="button" id="b" href="#">標示意涵</a>
 <a class="button" id="c" href="#">特色介紹</a>
@@ -359,4 +344,6 @@
 <a class="button" id="top" href="#">網頁頂端</a>
 <a class="button" id="bottom" href="#">網頁底部</a>
 <a class="button" id="home" href="#">返回主頁</a>
+</div>
+
 </html>
