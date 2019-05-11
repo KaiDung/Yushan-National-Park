@@ -33,7 +33,7 @@
   .button{
     background-color: #a0fdff;
     border: 2px solid black;
-    color: ;
+    color: #0645ad;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
