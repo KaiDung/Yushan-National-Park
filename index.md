@@ -65,6 +65,129 @@
     top: 5%;
     right: 5%;
   }
+  * {
+        box-sizing: border-box
+    }
+    
+    body {
+        font-family: Verdana, sans-serif;
+        margin: 0
+    }
+    
+    .mySlides {
+        display: none
+    }
+    
+    img {
+        vertical-align: middle;
+    }
+    /* Slideshow container */
+    
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+    /* Next & previous buttons */
+    
+    .prev,
+    .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        padding: 16px;
+        margin-top: -22px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+    /* Position the "next button" to the right */
+    
+    .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+    }
+    /* On hover, add a black background color with a little bit see-through */
+    
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+    /* Caption text */
+    
+    .text {
+        color: #f2f2f2;
+        font-size: 15px;
+        padding: 8px 12px;
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        text-align: center;
+    }
+    /* Number text (1/3 etc) */
+    
+    .numbertext {
+        color: #f2f2f2;
+        font-size: 12px;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;
+    }
+    /* The dots/bullets/indicators */
+    
+    .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+    }
+    
+    .active,.dot:hover {
+        background-color: #717171;
+    }
+    /* Fading animation */
+    
+    .fade {
+        -webkit-animation-name: fade;
+        -webkit-animation-duration: 1.5s;
+        animation-name: fade;
+        animation-duration: 1.5s;
+    }
+    
+    @-webkit-keyframes fade {
+        from {
+            opacity: .4
+        }
+        to {
+            opacity: 1
+        }
+    }
+    
+    @keyframes fade {
+        from {
+            opacity: .4
+        }
+        to {
+            opacity: 1
+        }
+    }
+    /* On smaller screens, decrease text size */
+    
+    @media only screen and (max-width: 300px) {
+        .prev,
+        .next,
+        .text {
+            font-size: 11px
+        }
+    }
   
 </style>
 
@@ -107,18 +230,101 @@
 <h1 style="font-size:40px;text-align:center">玉山國家公園</h1>
 <h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+  
 <p>玉山國家公園位居臺灣中央地帶，行政區域跨花蓮、高雄、南投、嘉義等四個縣市，地形可概分為<b>東埔山塊</b>、<b>玉山山塊</b>及<b>中央山塊</b>三大區，<b>亦為濁水溪、高屏溪及秀姑巒溪等溪流上游之重要集水區</b>。園區面積103,121.4公頃，擁有<b>東北亞第一高峰，海拔3,952公尺的玉山主峰</b>，植被隨海拔之變化而異，由亞熱帶、溫帶以至寒帶，園區面積約為臺灣面積的百分之三，卻有1923種被子植物、28種裸子植物、441種蕨類植物，177種苔蘚類植物，147種菌類；含括了臺灣半數以上的原生種植物。<br>
   
-  <img class="blackborder" style="display:block;width:80%;height:auto;"
-  src="https://npgis.cpami.gov.tw//public/data/jpg/M0047p01.jpg">
-  
 <br>玉山園區計有58種哺乳類動物，且大多數為行政院農業委員會公告之保育類野生動物，如臺灣野山羊、臺灣水鹿、台灣黑熊、台灣山羌、及台灣獼猴等，而園區內的鳥類種數亦有約196種之多，幾乎涵括臺灣森林性留鳥，其中包括黑長尾雉、藍腹鷳、臺灣噪鶥、藪鳥、冠羽畫眉等，臺灣特有種鳥類計有24種；園區內的高山溪流經查，計有12種淡水魚類。園區蝴蝶種數約285種，佔臺灣蝴蝶種數之一半以上；園區的爬蟲類計有18種，以阿里山龜殼花、梭德氏游蛇及斯文豪氏攀木蜥蜴等臺灣特有種較多；兩棲類計有13種，其中以一級保育類<b>阿里山山椒魚</b>及<b>楚南氏山椒魚</b>等百萬年前冰河孓遺生物，在地處亞熱帶的臺灣更屬難得珍貴，具有極高的學術研究價值。<br>
+
+  <br>在人文史蹟方面，有<b>八通關古道</b>，為清領時期對臺灣經營，由消極抵制轉為積極開發的重要里程碑，另有日治時期所修築之八通關越道路、關山越道路等，為日治時期理蕃政策下的產物，且過去園區曾經是布農族人生活的領域，因此古道現今仍多處多分布農族舊社遺址，古道的遺址更訴說著許多布農族人奮勇抗日的感人事蹟。<br> </p>
+
+<div class="slideshow-container">
   
-  <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://npgis.cpami.gov.tw//public/data/jpg/B0152p001.jpg">
-  
-<br>在人文史蹟方面，有<b>八通關古道</b>，為清領時期對臺灣經營，由消極抵制轉為積極開發的重要里程碑，另有日治時期所修築之八通關越道路、關山越道路等，為日治時期理蕃政策下的產物，且過去園區曾經是布農族人生活的領域，因此古道現今仍多處多分布農族舊社遺址，古道的遺址更訴說著許多布農族人奮勇抗日的感人事蹟。<br>
-  
-</p>
+   <div class="mySlides fade">
+        <div class="numbertext">1 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.ysnp.gov.tw/upload/images/20090722_145847.76018.jpg">
+        <div class="text"></div>
+   </div>
+
+   <div class="mySlides fade">
+        <div class="numbertext">2 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.ysnp.gov.tw/upload/images/20090722_150432.67519.jpg" >
+        <div class="text"></div>
+    </div>
+
+   <div class="mySlides fade">
+        <div class="numbertext">3 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.ysnp.gov.tw/upload/images/20090722_145932.77331.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <div class="mySlides fade">
+        <div class="numbertext">4 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.ysnp.gov.tw/upload/images/20090722_152038.10492.JPG">
+        <div class="text"></div>
+    </div>
+    
+   <div class="mySlides fade">
+        <div class="numbertext">5 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.ysnp.gov.tw/upload/images/20090722_151013.38455.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <div class="mySlides fade">
+        <div class="numbertext">6 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.ysnp.gov.tw/upload/images/20090722_145953.87867.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+
+<br>
+
+<div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+</div>
+
+
+<script>
+   var slideIndex = 1;
+   showSlides(slideIndex);
+
+   function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+   function currentSlide(n) {
+        showSlides(slideIndex = n);
+    }
+
+   function showSlides(n) {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        if (n > slides.length) {
+            slideIndex = 1
+        }
+        if (n < 1) {
+            slideIndex = slides.length
+        }
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+    }
+</script>
+
 </div>
 
 <h1 id="B">國家公園標示意涵</h1>
