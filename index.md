@@ -2,8 +2,12 @@
 <html>
 <style>
   
-  body{
-    background-color: #CCFF99
+  body {
+    background-image: url(https://i.imgur.com/THcKxtQ.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
   }
   
   .blackborder{
