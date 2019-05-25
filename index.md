@@ -192,6 +192,41 @@
             font-size: 11px
         }
     }
+    .tab {
+        overflow: hidden;
+         border: 1px solid #ccc;
+         background-color: #f1f1f1;
+    }
+        /* Style the buttons inside the tab */
+        
+    .tab button {
+        background-color: inherit;
+         float: left;
+         border: none;
+         outline: none;
+         cursor: pointer;
+         padding: 14px 16px;
+         transition: 0.3s;
+         font-size: 17px;
+     }
+        /* Change background color of buttons on hover */
+        
+    .tab button:hover {
+         background-color: #ddd;
+    }
+        /* Create an active/current tablink class */
+        
+     .tab button.active {
+         background-color: #ccc;
+     }
+        /* Style the tab content */
+        
+    .tabcontent {
+         display: none;
+         padding: 6px 12px;
+         border: 1px solid #ccc;
+         border-top: none;
+    }
   
 </style>
 
@@ -240,6 +275,57 @@
 <br>玉山園區計有58種哺乳類動物，且大多數為行政院農業委員會公告之保育類野生動物，如臺灣野山羊、臺灣水鹿、台灣黑熊、台灣山羌、及台灣獼猴等，而園區內的鳥類種數亦有約196種之多，幾乎涵括臺灣森林性留鳥，其中包括黑長尾雉、藍腹鷳、臺灣噪鶥、藪鳥、冠羽畫眉等，臺灣特有種鳥類計有24種；園區內的高山溪流經查，計有12種淡水魚類。園區蝴蝶種數約285種，佔臺灣蝴蝶種數之一半以上；園區的爬蟲類計有18種，以阿里山龜殼花、梭德氏游蛇及斯文豪氏攀木蜥蜴等臺灣特有種較多；兩棲類計有13種，其中以一級保育類<b>阿里山山椒魚</b>及<b>楚南氏山椒魚</b>等百萬年前冰河孓遺生物，在地處亞熱帶的臺灣更屬難得珍貴，具有極高的學術研究價值。<br>
 
   <br>在人文史蹟方面，有<b>八通關古道</b>，為清領時期對臺灣經營，由消極抵制轉為積極開發的重要里程碑，另有日治時期所修築之八通關越道路、關山越道路等，為日治時期理蕃政策下的產物，且過去園區曾經是布農族人生活的領域，因此古道現今仍多處多分布農族舊社遺址，古道的遺址更訴說著許多布農族人奮勇抗日的感人事蹟。<br> </p>
+
+<div class="tab">
+        <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">西北園區</button>
+        <button class="tablinks" onclick="openCity(event, 'Paris')">南部園區</button>
+        <button class="tablinks" onclick="openCity(event, 'Tokyo')">東部園區</button>
+        <button class="tablinks" onclick="openCity(event, 'one')">相關影音</button>
+    </div>
+
+    <div id="London" class="tabcontent">
+        <h3><b>西北園區</b></h3>
+        <p>本區位於玉山園區西北側，包括新中橫公路、塔塔加、東埔、觀高、八通關、玉山主峰、及楠溪林道等地區。玉山國家公園聯外道路 / 塔塔加遊憩路線圖 / 新中橫公路景點位置圖 。<br>
+        <b>主要景觀資源：</b><br>東北亞第一高峰之玉山主峰、塔塔加分水嶺、楠梓仙溪、陳有蘭溪溪谷景觀、金門峒斷崖、父子斷崖、八通關分水嶺等地理地形景觀。 白木林景觀、冷杉、鐵杉、八通關草原等原始林景觀及高山寒原植物。另有陳有蘭溪、沙里仙溪等地區之原始針闊葉混含林帶，含有許多鳥類、蝴蝶、山羌、台灣獼猴等，為本區動植物資源豐饒地區。 人文景觀有玉山西峰山神廟、北峰頂的中央氣象局玉山氣象站、八通關古道及布農族原住民聚落。</p>
+        <img src="https://i.imgur.com/pMkI6Hy.png">
+    </div>
+
+    <div id="Paris" class="tabcontent">
+        <h3><b>南部園區</b></h3>
+        <p>東沙島周邊海域有全國最大的海草床分布，面積約1,185公頃，是臺灣其他區域海草床加總起來的20倍之多。目前東沙紀錄有7種海草，包括單脈二藥草、圓葉水絲草、鋸齒葉水絲草、水韭菜、鐮葉叢草、泰來草和卵葉鹽草等，不僅提供多樣性海洋生物生活的空間，也是食物鏈中重要的基礎生產者，其年吸收碳量約為一萬公噸。東沙海域紀錄7種（世界海草種數約60種</p>
+        <img src="https://i.imgur.com/m9G4CcN.jpg">
+    </div>
+
+    <div id="Tokyo" class="tabcontent">
+        <h3><b>東部園區</b></h3>
+        <p>東沙島的植物的分布類型可分為泛熱帶分布、熱帶舊世界分布及東南亞、西南太平洋諸島分布三種模式。東沙島是熱帶偏北的太平洋島嶼，面積小，氣候深受海洋影響，島上植被屬於熱帶海岸林，和鄰近的西沙群島、南沙群島或是海南島的種類多有相似之處，祇是某些植種的數量和分布有些許差異。主要分為沙灘植群，海岸灌叢與海岸林過度帶植物，海岸林植群，海岸灌叢植群</p>
+        <img src="https://i.imgur.com/ec1mTiW.jpg">
+    </div>
+
+
+    <div id="one" class="tabcontent">
+        <h3>相關影音</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vy7UTgoQblQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <script>
+        function openCity(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+    </script>
 
 <div class="slideshow-container">
   
